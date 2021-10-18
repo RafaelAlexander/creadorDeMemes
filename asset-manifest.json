@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/creadorDeMemes/static/css/main.9ac98f80.chunk.css",
+    "main.js": "/creadorDeMemes/static/js/main.96c50645.chunk.js",
+    "main.js.map": "/creadorDeMemes/static/js/main.96c50645.chunk.js.map",
+    "runtime-main.js": "/creadorDeMemes/static/js/runtime-main.d3f2bea4.js",
+    "runtime-main.js.map": "/creadorDeMemes/static/js/runtime-main.d3f2bea4.js.map",
+    "static/js/2.eebe45d5.chunk.js": "/creadorDeMemes/static/js/2.eebe45d5.chunk.js",
+    "static/js/2.eebe45d5.chunk.js.map": "/creadorDeMemes/static/js/2.eebe45d5.chunk.js.map",
+    "static/js/3.b97afec2.chunk.js": "/creadorDeMemes/static/js/3.b97afec2.chunk.js",
+    "static/js/3.b97afec2.chunk.js.map": "/creadorDeMemes/static/js/3.b97afec2.chunk.js.map",
+    "index.html": "/creadorDeMemes/index.html",
+    "static/css/main.9ac98f80.chunk.css.map": "/creadorDeMemes/static/css/main.9ac98f80.chunk.css.map",
+    "static/js/2.eebe45d5.chunk.js.LICENSE.txt": "/creadorDeMemes/static/js/2.eebe45d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f2bea4.js",
+    "static/js/2.eebe45d5.chunk.js",
+    "static/css/main.9ac98f80.chunk.css",
+    "static/js/main.96c50645.chunk.js"
+  ]
+}
